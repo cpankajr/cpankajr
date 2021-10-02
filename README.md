@@ -20,13 +20,13 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-61DBFB?style=for-the-badge&logo=kotlin&logoColor=ffffff)
-![NodeJS](https://img.shields.io/badge/-NodeJS-61DBFB?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-007ACC?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![jQuery](https://img.shields.io/badge/-jQuery-F0DB4F?style=for-the-badge&logo=jquery&logoColor=ffffff)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-F0DB4F?style=for-the-badge&logo=spring&logoColor=ffffff)
+![jQuery](https://img.shields.io/badge/-jQuery-232F3E?style=for-the-badge&logo=jquery&logoColor=ffffff)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-00AD9F?style=for-the-badge&logo=spring&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-F0DB4F?style=for-the-badge&logo=django&logoColor=ffffff)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-F0DB4F?style=for-the-badge&logo=express&logoColor=ffffff)
 
