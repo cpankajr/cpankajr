@@ -11,7 +11,7 @@
 - 💬 I do fullstack and much of every thing :heart:
 - 🎓 May 2018 - **B.E. in Electronics and Telecom**
 - :man_technologist: Most of my projects are available on Github.
-- :orange_book: Check out my **[resume](https://cpankajr.com/files/resume/Pankaj_CV_Sept_2021.pdf).
+- :orange_book: Check out my **[resume](https://cpankajr.com/files/resume/Pankaj_CV_Sept_2021.pdf)**.
 - 🎲 Fun fact: You might find me playing chess on **[Chess.com](https://chess.com/)** NOW
 - ⭐ Social Media: [linktree](https://linktr.ee/cpankajr)
 - 🌴 Check out my website **[cpankajr.com](https://cpankajr.com/)**
