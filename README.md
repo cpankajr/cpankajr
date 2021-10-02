@@ -26,9 +26,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-232F3E?style=for-the-badge&logo=jquery&logoColor=ffffff)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-00AD9F?style=for-the-badge&logo=spring&logoColor=ffffff)
+
 ![Django](https://img.shields.io/badge/-Django-336600?style=for-the-badge&logo=django&logoColor=ffffff)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-808080?style=for-the-badge&logo=express&logoColor=ffffff)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-00AD9F?style=for-the-badge&logo=spring&logoColor=ffffff)
 
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-232F3E?style=for-the-badge&logo=google-cloud&logoColor=ffffff)
