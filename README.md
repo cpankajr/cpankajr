@@ -40,6 +40,13 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-2965f1?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
 
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
 <details>
   <summary>💜 Github Stats</summary>
   <p align="center" >
