@@ -19,7 +19,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-61DBFB?style=for-the-badge&logo=kotlin&logoColor=ffffff)
-![NodeJS](https://img.shields.io/badge/-NodeJS-61DBFB?style=for-the-badge&logo=nodejs&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-61DBFB?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=ffffff)
