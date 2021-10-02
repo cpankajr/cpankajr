@@ -7,6 +7,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-@cpankajr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/cpankajr/)](https://instagram.com/cpankajr)
 [![Gmail Badge](https://img.shields.io/badge/-cpankajr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cpankajr@gmail.com)](mailto:cpankajr@gmail.com)
 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 - 💻 Currently working as a **Senior Software Engineer @ [Paytm](https://paytm.com/)**
 - 💬 I do fullstack and much of every thing :heart:
 - 🎓 May 2018 - **B.E. in Electronics and Telecom**
