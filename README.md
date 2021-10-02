@@ -18,8 +18,8 @@
 - ⭐ Social Media: **[linktree](https://linktr.ee/cpankajr)**
 - 🌴 Check out my website **[cpankajr.com](https://cpankajr.com/)**
 
----
 
+### Github Stats
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=cpankajr&&show_icons=true&theme=radical"/>
@@ -50,6 +50,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-211F1F?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-2965f1?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
+
 ---
 
 If you like my content or find anything useful, give it a :star:
