@@ -27,8 +27,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-232F3E?style=for-the-badge&logo=jquery&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-00AD9F?style=for-the-badge&logo=spring&logoColor=ffffff)
-![Django](https://img.shields.io/badge/-Django-F0DB4F?style=for-the-badge&logo=django&logoColor=ffffff)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-F0DB4F?style=for-the-badge&logo=express&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-336600?style=for-the-badge&logo=django&logoColor=ffffff)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-808080?style=for-the-badge&logo=express&logoColor=ffffff)
 
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-232F3E?style=for-the-badge&logo=google-cloud&logoColor=ffffff)
@@ -37,7 +37,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-211F1F?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-0B0D0F?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-2965f1?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
 
 <details>
   <summary>💜 Github Stats</summary>
