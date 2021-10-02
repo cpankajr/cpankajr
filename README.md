@@ -13,7 +13,7 @@
 - :man_technologist: Most of my projects are available on **[Github](https://github.com/cpankajr/cpankajr/)**.
 - :orange_book: Check out my **[resume](https://cpankajr.com/files/resume/Pankaj_CV_Sept_2021.pdf)**.
 - 🎲 Fun fact: You might find me playing chess on **[Chess.com](https://chess.com/)** NOW
-- ⭐ Social Media: [linktree](https://linktr.ee/cpankajr)
+- ⭐ Social Media: **[linktree](https://linktr.ee/cpankajr)**
 - 🌴 Check out my website **[cpankajr.com](https://cpankajr.com/)**
 
 ### Languages and Technologies
@@ -42,13 +42,11 @@
 
 <details>
   <summary>💜 Github Stats</summary>
-
-<img alt="cpankajr's Github Stats" src="https://github-readme-stats-beryl-three.vercel.app/api?username=cpankajr&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
-
-  <br>
-
-  <img alt="cpankajr's Top Languages" src="https://github-readme-stats-beryl-three.vercel.app/api/top-langs?username=cpankajr&title_color=F35588&show_icons=true&icon_color=0F7173&hide_border=true" />
-
+  <p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=cpanakajr&&show_icons=true&theme=radical"/>
+  </a>
+</p>
 </details>
 
 ---
