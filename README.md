@@ -8,9 +8,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-cpankajr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cpankajr@gmail.com)](mailto:cpankajr@gmail.com)
 
 - 💻 Currently working as a **Senior Software Engineer @ [Paytm](https://paytm.com/)**
-- 💬 Talk to me about nature, street, and urban **photography** :camera:
+- 💬 I do fullstack and much of every thing :heart:
 - 🎓 May 2018 - **B.E. in Electronics and Telecom**
-- 👑 Pronouns: [he/him](https://www.mypronouns.org/he-him)
+- :man_technologist: Most of my projects are available on Github.
+- :orange_book: Check out my **[resume](https://cpankajr.com/files/resume/Pankaj_CV_Sept_2021.pdf).
 - 🎲 Fun fact: You might find me playing chess on **[Chess.com](https://chess.com/)** NOW
 - ⭐ Social Media: [linktree](https://linktr.ee/cpankajr)
 - 🌴 Check out my website **[cpankajr.com](https://cpankajr.com/)**
